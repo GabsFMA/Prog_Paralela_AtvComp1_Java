@@ -35,21 +35,17 @@ O projeto foi inicialmente desenvolvido em Python, mas posteriormente foi descob
 ---
 
 ## Resultados de Desempenho
-Os tempos de execução observados foram:
+Sendo executado 10 vezes seguidas os tempos de execução médios observados foram:
 
 | Versão | Tempo de Execução (s) |
 |---------|--------------------|
-| 1 Thread | X.XX s |
-| 5 Threads | X.XX s |
-| 10 Threads | X.XX s |
-
-(Os valores `X.XX s` devem ser substituídos pelos tempos medidos durante a execução real.)
+| 1 Thread | 0.227 |
+| 5 Threads | 0.0685 |
+| 10 Threads | 0.0633 |
 
 ### Gráfico Comparativo
 
 ![Desempenho das Versões](gráfico_comparativo.png)
-
-(O gráfico deve ser gerado a partir dos dados coletados e incluído no repositório.)
 
 ---
 
@@ -70,6 +66,7 @@ Os resultados serão exibidos no console e os arquivos de saída serão gerados 
 
 ---
 
-## Autor
-[Seu Nome]
+## Autores
+[Nomes: Gabriel Francisco Monteiro Amaral, Julia Batista Iervese e Yago Bastos dos Santos]
+[RAs: 1T1.846767, 1T1.833991 e 1T1.844186]
 
